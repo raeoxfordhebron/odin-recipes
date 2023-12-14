@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    height: 50px;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px 10px 10px 10px;
+}
+
+.recipe-container {
+    text-align: center;
+    background-color: lightpink;
+    height: 30px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px 10px 10px 10px;
+}
+
+.recipe-link:link {
+    color: black;
+}
+
+.recipe-link:visited {
+    color: black;
+}
+
+.recipe-link:hover {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: lightpink;
+    width: 300px;
+    padding: 10px;
+    margin: 15px auto;
+}
+
+.description {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#recipe {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipe-card {
+    margin-right: 50px;
+}
